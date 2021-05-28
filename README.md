@@ -1,4 +1,4 @@
-/*Write a (GUI0 application in which you declare an array of 10 first names.
+/*Write a (GUI) application in which you declare an array of 10 first names.
   Write a try block in which you prompy the user for an integer and display
   the name in the requested position(index).Create a catch block that catches the potential
   ArrayIndexOutOfBoundsException thrown when the user enters a number that is out of range .
